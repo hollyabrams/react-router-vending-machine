@@ -3,7 +3,7 @@
     flex-direction: column;
     align-items: center;
     padding: 1rem;
-    margin-top: 100px;
+    margin-top: 50px;
 }
 
 .vending-machine {
@@ -42,7 +42,6 @@
 }
 
 .vending-machine__item:hover {
-    background-color: red;
     color: white;
 }
 

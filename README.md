@@ -1,3 +1,5 @@
+![Vending Machine](/vending-machine.gif)
+
 # React Vending Machine
 
 This is a simple vending machine application built with React and React Router. It allows the user to view a list of snacks that they can get from the vending machine and click on them to view each individual snack.
